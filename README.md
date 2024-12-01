@@ -1,0 +1,1 @@
+# Extension-hide-negative-comments-Facebook
