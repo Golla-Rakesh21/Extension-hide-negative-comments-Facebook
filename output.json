@@ -1,0 +1,5007 @@
+[
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    }, 
+    {
+        "cleaned_content": "fuck",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "idiot",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "worst experience ever",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "completely unacceptable",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "excellent quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very bad quality",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing to complain about",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's decent",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i love this product",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it works as expected",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just a regular product",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very disappointing",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it's a scam",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "really good service",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "best decision i made",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "do not recommend",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the product is okay",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "not the best, not the worst",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "absolutely terrible",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "average experience overall",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "never buying this again",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "nothing special about it",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "just an average item",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "fantastic experience",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "highly recommend",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "very satisfied with my purchase",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "will buy again",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "couldn\u2019t be happier",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i hate this product",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "the service was awful",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "i'm so upset",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "top-notch quality",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "i'm very happy",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "satisfactory performance",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "zero stars for this",
+        "textblob_sentiment_label": "negative",
+        "sentiment_numeric": -1
+    },
+    {
+        "cleaned_content": "this is amazing",
+        "textblob_sentiment_label": "positive",
+        "sentiment_numeric": 1
+    },
+    {
+        "cleaned_content": "met my expectations",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    },
+    {
+        "cleaned_content": "it\u2019s fine, but not great",
+        "textblob_sentiment_label": "neutral",
+        "sentiment_numeric": 0
+    }
+]
